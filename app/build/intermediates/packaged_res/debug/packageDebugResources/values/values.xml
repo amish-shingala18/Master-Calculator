@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back">#1C3B5C</color>
+    <color name="black">#FF000000</color>
+    <color name="chooseback">#F4F4F5</color>
+    <color name="hint">#999999</color>
+    <color name="imgb">#E8EBEF</color>
+    <color name="lightblack">#8C8686</color>
+    <color name="rectIn">#314D6B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Master Calculator</string>
+    <style name="Base.Theme.MasterCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MasterCalculator" parent="Base.Theme.MasterCalculator"/>
+</resources>
