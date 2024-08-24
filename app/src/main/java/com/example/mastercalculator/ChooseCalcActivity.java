@@ -29,12 +29,9 @@ public class ChooseCalcActivity extends AppCompatActivity {
             }
         });
 
-        lnrMutual.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent MutualIntent = new Intent(ChooseCalcActivity.this, MutualFundActivity.class);
-                startActivity(MutualIntent);
-            }
+        lnrMutual.setOnClickListener(v -> {
+            Intent MutualIntent = new Intent(ChooseCalcActivity.this, MutualFundActivity.class);
+            startActivity(MutualIntent);
         });
 
         lnrInterest.setOnClickListener(new View.OnClickListener() {

@@ -1,198 +1,178 @@
 [
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_iconbackshape.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/iconbackshape.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_iconbackshape.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\iconbackshape.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_choosecalc.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_choosecalc.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_aboutus.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_aboutus.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-hdpi_icon.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-hdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_mutualfund.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\mutualfund.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_sqr_or_hour.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\sqr_or_hour.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_horizonalline.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\horizonalline.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_rectshape.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\rectshape.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_emi.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_emi.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_forward_arrow.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\forward_arrow.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_age.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\age.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_emi.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\emi.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_line.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\line.xml"
-    },
-    {
-        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_aboutus.xml.flat",
-        "source": "com.example.mastercalculator.app-main-33:/layout/activity_aboutus.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_discount.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_discount.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_schlresult.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\schlresult.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_back_arrow.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\back_arrow.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_interest.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\interest.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_discount.png.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\discount.png"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_interest.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_interest.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_agecalculator.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_agecalculator.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_transperent_rect.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\transperent_rect.xml"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_mutual_fund.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_mutual_fund.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.mastercalculator.app-debug-31:/drawable_horizonalline.xml.flat",
         "source": "com.example.mastercalculator.app-main-33:/drawable/horizonalline.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_transperent_shape.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/transperent_shape.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_mutual_fund.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_mutual_fund.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_forward_arrow.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/forward_arrow.xml"
     },
     {
         "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_agecalculator.xml.flat",
         "source": "com.example.mastercalculator.app-main-33:/layout/activity_agecalculator.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_schoolresult.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_schoolresult.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_discount.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_discount.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_rectbtn.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\rectbtn.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_emi.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_emi.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_sqr_or_hour.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/sqr_or_hour.png"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_interest.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_interest.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_clickdown.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\clickdown.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_transperent_rect.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/transperent_rect.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_activity_squareorhour.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\activity_squareorhour.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\layout_agecalculator.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\layout\\agecalculator.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_schlresult.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/schlresult.png"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_transperent_shape.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\transperent_shape.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_choosecalc.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_choosecalc.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_mutualfund.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/mutualfund.png"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_rectshape.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/rectshape.xml"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\drawable_squareshape.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\drawable\\squareshape.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_interest.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/interest.png"
     },
     {
-        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.4\\com.example.mastercalculator.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_schoolresult.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_schoolresult.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_line.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/line.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-hdpi_icon.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/layout_activity_aboutus.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/layout/activity_aboutus.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_discount.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/discount.png"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_age.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/age.png"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_rectbtn.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/rectbtn.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_clickdown.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/clickdown.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_squareshape.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/squareshape.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_emi.png.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/emi.png"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_back_arrow.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/back_arrow.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mastercalculator.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mastercalculator.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mastercalculator.app-main-33:/drawable/ic_launcher_foreground.xml"
     }
 ]
